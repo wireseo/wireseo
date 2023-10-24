@@ -1,8 +1,5 @@
 <p align="center">
 🤖 Check out my portfolio @ https://erynseo.netlify.app/! 🤖
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=wireseo&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
 </p>
 
 
