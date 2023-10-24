@@ -1,6 +1,6 @@
-Check out my portfolio @ https://erynseo.netlify.app/!
-
-<img width="1718" alt="Screenshot 2023-10-25 at 12 33 28 AM" src="https://github.com/wireseo/wireseo/assets/43373656/1b9d0439-1f19-468b-90f2-5e703ec5cdf1">
+<p align="center">
+🤖 Check out my portfolio @ https://erynseo.netlify.app/! 🤖
+</p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wireseo&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
